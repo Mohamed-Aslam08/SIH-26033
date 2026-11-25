@@ -26,17 +26,17 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-How the solution works
+How the solution works:
 
-A farm-to-buyer digital marketplace
+FARMER TO BUYER DIGITAL MARKETPLACE
 
-Verified farmers and FPOs list produce with quantity, grade, harvest date and expected price. Households, retailers, restaurants, hostels and institutional buyers can buy directly or place bulk and forward orders.Farmers and FPOs list their available produce on the app (weekly updates recommended) through a simple multilingual app. Farmers can join individually or through their FPO, which is farmer-owned and encouraged but not compulsory.
+Farmers and FPOs can upload information regarding products including amount, quality, date of collection and anticipated cost. Consumers, shops, eateries, hostels and institutions can order items either on small quantities or in bulk and also pre-order. Farmers, or their FPO (which is farmer owned and whilst not obligatory, is positively promoted), can enter details of their produce into a user friendly multi-lingual app. Ideally this should be done weekly. 
 
-Bulk orders:
+BULK ORDERS:
 
-1.Buyer places an order. A restaurant, hostel or retailer says what it needs, such as "300 kg Grade A tomatoes, delivery Friday." Pre-booking days ahead is encouraged. The buyer can pick a specific FPO or farmer, or leave the choice to the app.
+1.Buyer places an order. A restaurant, hostel or retailer says what it needs, such as "300 kg Grade A tomatoes, delivery Friday." Pre-booking days ahead is encouraged. The buyer can pick a specific FPO or farmer or leave the choice to the app.
 
-2.The app splits the order. It picks farmers and FPOs using stock, distance, quality ratings, reliability and fairness, then assigns each a share, for example 120 kg, 100 kg and 80 kg.
+2.The app splits the order. It picks farmers and FPOs using stock, distance, quality ratings, reliability and fairness, then assigns each a share.
 
 3.Farmers get notified. Each one gets a request with the quantity, grade and hub deadline, and can accept or decline. If someone declines, the app moves to the next farmer.
 Produce reaches the hub. Farmers deliver it themselves, or the FPO or a pooled pickup collects it.
@@ -46,7 +46,7 @@ One delivery goes out. A single vehicle takes the whole order to the buyer on an
 Payment is split. The buyer pays once by UPI. The app uses the batch records to pay each farmer for exactly what they supplied, minus the visible hub and platform fees.
 
 
-Small orders:(weekly subscriptions OR on and off)
+SMALL ORDERS:(weekly subscriptions OR on and off)
 
 1.Family orders on the app. They pick items and quantities, such as 2 kg tomatoes, 1 kg onions and 1 kg spinach, and choose a delivery slot. They can order one-off or sign up for a weekly subscription basket, which they can skip, swap or pause before each cut-off.
 Order cut-off: Orders close at a set time before delivery day, for example Monday 8 PM for Tuesday delivery. The hub then knows the total demand for the area.
@@ -58,28 +58,38 @@ Order cut-off: Orders close at a set time before delivery day, for example Monda
 4.the AI plans one route per neighbourhood. Apartment groups get one stop, and families can also collect from a nearby pickup point for a lower fee. Delivery arrives in the chosen slot, 2 or 3 times a week.customers pay through UPI and each individual farmer is paid through the app.
 
 
-ADDRESSING THE PEOBLEM:
+ADDRESSING THE PROBLEM:
 removes the need for intermediaries and establishes direct connections between farmers,FPOs and customers. Demand is known in advance through ai model used so farmers are not forced to oblige to any price.Both farmers and customers benefit
 
-Innovation and uniqueness:
+INNOVATION AND UNIQUENSESS:
+
 1.Demand first selling
+
 2.transperant prices and cheaper delivery
+
 3.simple to use
+
 4.Ai forecasting
+
 5.Built on existing systems
 
 
 ## Technical Approach
 1.Design website and database structures
+
 2.Frontend can be devoloped using javascript or typescript in React Native framework
+
 3.Backend and API can be developed in python using FastAPI or django framework
+
 4.postgreSQL queried in SQL can be used for database.
 
-farmer to payment workflow
+
+FARMER TO PAYMENT WORKFLOW
 ![alt text](20261122_183203.jpg)
 
 
-system Architecture
+
+SYSTEM ARCHITECTURE:
 ![alt text](20261122_183221.jpg)
 
 
